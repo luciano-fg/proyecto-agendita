@@ -1,0 +1,9 @@
+# Dependencias de Node
+/node_modules
+
+# Archivos de entorno y credenciales sensibles
+.env
+
+# Dumps de base de datos o archivos de log
+*.sql
+*.log
